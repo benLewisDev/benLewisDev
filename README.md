@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benLewisDev
-- 👀 I’m interested in Building stuff! (Motorcycles, Cars, Guitars, Anything else i can dream up)
+- 👀 I’m interested in building stuff! (Motorcycles, Cars, Guitars, anything else I can dream up)
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me ben.lewis.dev@gmail.com
